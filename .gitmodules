@@ -1,4 +1,4 @@
 [submodule "libsodium"]
 	path = libsodium
-	url = git@github.com:kryptco/libsodium
+	url = https://github.com/KryptCo/libsodium
 	branch = stable
